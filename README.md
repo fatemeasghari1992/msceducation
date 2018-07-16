@@ -51,7 +51,10 @@
     return self::$db;
   }
 ```
+<div dir="rtl">
 متد بالا یک نمونه از روی کلاس ایجاد کرده و آن را برمیگرداند
+</div>
+
 ``` php
   public function query($sql){
     $result = $this->connection->query($sql);
