@@ -1,0 +1,23 @@
+* {
+  font-family: tahoma;
+}
+
+.tac { 
+width: 100%!important;
+
+}
+.table2{
+
+
+	margin-left:36%;
+	;
+}
+.ltr { direction: ltr; }
+
+
+.cssTable td
+{
+	text-align: center;
+	vertical-align: middle;
+	padding: 0 20px 0 20px;
+}
